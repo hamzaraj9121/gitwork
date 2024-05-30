@@ -1,0 +1,45 @@
+'<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     .man{
+        height: 400px; 
+        width: 400px;
+        border: 1px solid red;
+        color: rgb(247, 247, 7);
+        font-size: 10px;
+        text-align: center;
+        background-color :rgba(152, 150, 103, 0.5) ;   
+        box-shadow: 5px 5px 10px 5px gray;
+        margin: auto;
+
+    
+    }
+    </style>
+</head>
+<body>
+    <div class="man">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut consequatur possimus, beatae iste nihil aliquid cumque iusto consequuntur ratione aperiam maxime sint! Voluptas, ipsam. Soluta, hic? Officiis unde veniam aperiam!
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. At aliquid facilis facere expedita alias eius! Voluptates nostrum sed quae excepturi voluptatem vero laudantium quos, recusandae illo, provident, rem perferendis commodi.
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aperiam alias mollitia consequatur consequuntur velit reprehenderit porro commodi quos illo, modi repudiandae quasi quae laudantium in eveniet. A, eius et!
+        </p><p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aperiam alias mollitia consequatur consequuntur velit reprehenderit porro commodi quos illo, modi repudiandae quasi quae laudantium in eveniet. A, eius et!
+        </p><p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aperiam alias mollitia consequatur consequuntur velit reprehenderit porro commodi quos illo, modi repudiandae quasi quae laudantium in eveniet. A, eius et!
+        </p><p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aperiam alias mollitia consequatur consequuntur velit reprehenderit porro commodi quos illo, modi repudiandae quasi quae laudantium in eveniet. A, eius et!
+        </p>
+
+        
+        
+    </div>
+</body>
+</html> 
